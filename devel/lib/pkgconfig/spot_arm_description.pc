@@ -1,0 +1,8 @@
+prefix=/home/navaphat/project_ws/devel
+
+Name: spot_arm_description
+Description: Description of spot_arm_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

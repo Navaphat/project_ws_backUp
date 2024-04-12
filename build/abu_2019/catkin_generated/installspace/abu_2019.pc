@@ -1,0 +1,8 @@
+prefix=/home/navaphat/project_ws/install
+
+Name: abu_2019
+Description: Description of abu_2019
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
